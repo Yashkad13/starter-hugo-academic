@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yash-kadam-429140193
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Vidyalankar Institute of Technology
+    url: https://vit.edu.in/
 education:
   courses:
     - course: PhD in Artificial Intelligence
