@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+<!--StartFragment-->
+
+A Self Motivated and Energetic tech Enthusiast who loves to explore various technologies, Create something new and different ,and tries to solve real world problems using his Technical and Analytical skills. Aiming to be a part of an innovative work environment where I can use my Technical and Interpersonal skills to accomplish organizational goals
+
+<!--EndFragment-->
