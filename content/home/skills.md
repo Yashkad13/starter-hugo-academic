@@ -4,7 +4,7 @@ widget_id: Python
 headless: true
 weight: 30
 title: Skills
-subtitle: null
+subtitle: Python
 feature:
   - description: 90%
     icon: r-project
